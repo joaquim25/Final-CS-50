@@ -14,11 +14,12 @@ I've decided to follow up on the project I've made of Week 8 but this time tried
 ##### Installation
 To run the website locally, you need to have Node.js and npm installed on your computer. Once you have Node.js and npm installed, follow the steps below:
 
-Clone the repository
-Navigate to the project directory using the command line
-Install dependencies by running npm install
-Start the development server by running npm start
-Usage
+1. Clone the repository
+2. Navigate to the project directory using the command line
+3. Install dependencies by running npm install
+4. Start the development server by running npm start
+
+##### Usage
 To use the website, you need to create an account or sign in if you already have one. Once you are logged in, you can browse the available modules and start learning. You can track your progress and take quizzes to test your knowledge.
 
 Contributors
