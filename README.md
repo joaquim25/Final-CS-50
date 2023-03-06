@@ -1,6 +1,8 @@
 A React Online Educational Website I've made for CS50X Final Project
 
-Description
+Video Demo: 
+
+Description:
 This is an online educational website built using React and ReactStrap. The website provides various modules for learners to choose from and learn at their own pace.
 
 Features
