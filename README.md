@@ -1,13 +1,17 @@
-A React Online Educational Website I've made for CS50X Final Project
+# A React Online Educational Website I've made for CS50X Final Project
 
-Video Demo: 
+### Video Demo: 
 
-Description:
-This is an online educational website built using React and ReactStrap. The website provides various modules for learners to choose from and learn at their own pace.
+### Description:
+This is an online educational website built using React and ReactStrap. 
+Easy to append more components and functionalities in the future, as of now it is a SPA containing 6 components (Header, hero, companies, courses, testimonial and footer).
+I've decided to follow up on the project I've made of Week 8 but this time tried an approach with React because I wanted to explore its potential.
 
-Features
-Responsive design
-Installation
+#### Features
+-Responsive design
+
+
+##### Installation
 To run the website locally, you need to have Node.js and npm installed on your computer. Once you have Node.js and npm installed, follow the steps below:
 
 Clone the repository
