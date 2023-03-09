@@ -27,5 +27,5 @@ To run the website locally, you need to have Node.js and npm installed on your c
 ##### Usage
 To use the website, you need to create an account or sign in if you already have one. Once you are logged in, you can browse the available modules and start learning. You can track your progress and take quizzes to test your knowledge.
 
-####Contributors
+#### Contributors
 Joaquim Luzia
