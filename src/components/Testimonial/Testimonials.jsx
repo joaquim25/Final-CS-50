@@ -1,5 +1,4 @@
 import React from "react";
-import "./testimonial.css";
 import { Container, Row, Col } from "reactstrap";
 import img from "../../assets/images/testimonial01.png";
 import Slider from "react-slick";
