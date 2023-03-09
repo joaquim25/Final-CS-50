@@ -1,17 +1,24 @@
-# A React Online Educational Website I've made for CS50X Final Project
+# EducateU - A React Online Educational Website I've made for my CS50X Final Project
 
-### Video Demo: 
+### Video Demo: https://youtu.be/mo4FGHnETcc
 
 ### Description:
-This is an online educational website built using React and ReactStrap. 
-Easy to append more components and functionalities in the future, as of now it is a SPA containing 6 components (Header, hero, companies, courses, testimonial and footer).
-I've decided to follow up on the project I've made of Week 8 but this time tried an approach with React because I wanted to explore its potential.
+
+This is an online educational website developed using React and ReactStrap. As a single-page application, it currently comprises of eight different components including Header, Hero, Company, About Us, Courses, Features, Testimonials, and Footer.
+This project was created as a final submission for the CS50X program, I've decided to follow up on the project I've made on Week 8, but this time I aimed to explore React's potential and enhance my web development skills.
 
 #### Features
--Responsive design
 
+-Responsive design
+-Reactstrap
+-Reactslick
+-useRef hooks
+-Remixicon
+-React count-up
+-Arrays
 
 ##### Installation
+
 To run the website locally, you need to have Node.js and npm installed on your computer. Once you have Node.js and npm installed, follow the steps below:
 
 1. Clone the repository
@@ -20,7 +27,9 @@ To run the website locally, you need to have Node.js and npm installed on your c
 4. Start the development server by running npm start
 
 ##### Usage
+
 To use the website, you need to create an account or sign in if you already have one. Once you are logged in, you can browse the available modules and start learning. You can track your progress and take quizzes to test your knowledge.
 
-Contributors
+#### Contributors
+
 Joaquim Luzia
