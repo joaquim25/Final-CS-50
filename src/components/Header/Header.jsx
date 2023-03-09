@@ -5,15 +5,15 @@ import "./header.css";
 const navLinks = [
   {
     display: "Home",
-    url: "#",
+    url: "#hero",
   },
   {
     display: "About",
-    url: "#",
+    url: "#about",
   },
   {
     display: "Courses",
-    url: "#",
+    url: "#courses",
   },
   {
     display: "Pages",
@@ -36,7 +36,7 @@ const Header = () => {
         <div className="navigation d-flex align-items-center justify-content-between">
           <div className="logo">
             <h2 className=" d-flex align-items-center">
-              <i class="ri-pantone-line"></i> .CS50 Final-Project
+              <i class="ri-pantone-line"></i> .EducateU
             </h2>
           </div>
 

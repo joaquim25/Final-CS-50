@@ -7,7 +7,7 @@ import "./about.css";
 
 const AboutUs = () => {
   return (
-    <section>
+    <section id="about">
       <Container>
         <Row>
           <Col lg="6" md="6">

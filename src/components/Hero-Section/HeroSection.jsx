@@ -5,7 +5,7 @@ import heroImg from "../../assets/images/hero-img.png";
 
 const HeroSection = () => {
   return (
-    <section>
+    <section id="hero">
       <Container>
         <Row>
           <Col lg="6" md="6">
