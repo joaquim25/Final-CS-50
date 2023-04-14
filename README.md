@@ -24,8 +24,10 @@ Watch a video demo of EducateU in action: https://youtu.be/mo4FGHnETcc
 :arrow_right: React Count-up
 
 ### Screenshots
-https://freeimage.host/i/localhost-3000.HvYe3N4 \n
+https://freeimage.host/i/localhost-3000.HvYe3N4
+
 https://freeimage.host/i/med.HvYefx2
+
 https://freeimage.host/i/mob.HvYeFDl
 
 #### Installation
