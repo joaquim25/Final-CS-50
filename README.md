@@ -1,30 +1,58 @@
-# EducateU - A React Online Educational Website I've made for my CS50X Final Project
+# EducateU - A React Online Educational Website
+### Introduction
+EducateU is an online educational website that aims to provide an intuitive and engaging learning experience for students of all ages. Built using React and ReactStrap, this single-page application comprises of eight different components including Header, Hero, Company, About Us, Courses, Features, Testimonials, and Footer.
 
-### Video Demo: https://youtu.be/mo4FGHnETcc
+### Demo
+Watch a video demo of EducateU in action: https://youtu.be/mo4FGHnETcc
 
-### Description:
-This is an online educational website developed using React and ReactStrap. As a single-page application, it currently comprises of eight different components including Header, Hero, Company, About Us, Courses, Features, Testimonials, and Footer.
-This project was created as a final submission for the CS50X program, I've decided to follow up on the project I've made on Week 8, but this time I aimed to explore React's potential and enhance my web development skills.
+### Website Features
+:arrow_right: Responsive design for optimal viewing on all devices
+:arrow_right: Reactstrap for easy and flexible styling
+:arrow_right: ReactSlick for creating smooth and customizable sliders
+:arrow_right: UseRef hooks for optimizing performance by reducing re-renders
+:arrow_right: Remixicon for adding modern icons and graphics to the website
+:arrow_right: React Count-up for animating numbers and statistics
+:arrow_right: Arrays for efficient and organized data management
 
-#### Features
--Responsive design
--Reactstrap
--Reactslick
--useRef hooks
--Remixicon
--React count-up
--Arrays
+### Technologies Used
+:arrow_right: ReactJS
+:arrow_right: Node.js
+:arrow_right: NPM
+:arrow_right: ReactStrap
+:arrow_right: ReactSlick
+:arrow_right: Remixicon
+:arrow_right: React Count-up
 
-##### Installation
-To run the website locally, you need to have Node.js and npm installed on your computer. Once you have Node.js and npm installed, follow the steps below:
+### Screenshots
+https://freeimage.host/i/localhost-3000.HvYe3N4
+https://freeimage.host/i/med.HvYefx2
+https://freeimage.host/i/mob.HvYeFDl
 
-1. Clone the repository
-2. Navigate to the project directory using the command line
-3. Install dependencies by running npm install
-4. Start the development server by running npm start
+#### Installation
+To run EducateU locally, follow the steps below:
 
-##### Usage
-To use the website, you need to create an account or sign in if you already have one. Once you are logged in, you can browse the available modules and start learning. You can track your progress and take quizzes to test your knowledge.
+1. Clone the repository: git clone https://github.com/joaquim25/Final-CS-50.git
+2. Navigate to the project directory: cd Final-CS-50
+3. Install dependencies: npm install
+4. Start the development server: npm start
+5. Open your browser and navigate to http://localhost:3000
 
-#### Contributors
+#### Usage
+In the future to use EducateU, you will need to create an account or sign in if you already have one. Once you are logged in, you can browse the available modules and start learning. You can track your progress and take quizzes to test your knowledge.
+
+#### Testing and Deployment
+To ensure the quality and stability of EducateU, we used Jest and React Testing Library for unit and integration testing.
+
+#### Future Development
+To continuously improve EducateU and add new features to enhance the learning experience, some of the features I plan to add in the future include:
+
+1. Account system
+2. Integration with external APIs for more diverse and relevant content
+3. Improved quiz functionality with randomized questions and adaptive difficulty levels
+4. Social media integration for sharing progress and achievements with friends and family
+
+#### Contact
+If you have any questions, feedback, or suggestions, please feel free to reach out to us at quimze1996.25@gmail.com. I would love to hear from you!
+
+Contributors
 Joaquim Luzia
