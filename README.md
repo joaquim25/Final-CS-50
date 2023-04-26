@@ -1,60 +1,45 @@
-# EducateU - A React Online Educational Website
-### Introduction
-EducateU is an online educational website that aims to provide an intuitive and engaging learning experience for students of all ages. Built using React and ReactStrap, this single-page application comprises of eight different components including Header, Hero, Company, About Us, Courses, Features, Testimonials, and Footer.
+# EducateU - React Online Educational Website
 
-### Demo
-Watch a video demo of EducateU in action: https://youtu.be/mo4FGHnETcc
+## Getting Started
+To run EducateU locally, follow these steps:
 
-### Website Features
-:arrow_right: Responsive design for optimal viewing on all devices
-:arrow_right: Reactstrap for easy and flexible styling
-:arrow_right: ReactSlick for creating smooth and customizable sliders
-:arrow_right: UseRef hooks for optimizing performance by reducing re-renders
-:arrow_right: Remixicon for adding modern icons and graphics to the website
-:arrow_right: React Count-up for animating numbers and statistics
-:arrow_right: Arrays for efficient and organized data management
+- Clone the repository: 
+```
+git clone https://github.com/joaquim25/Final-CS-50.git
+```
+- Navigate to the project directory: 
+```
+cd Final-CS-50
+```
+- Install dependencies: 
+```
+npm install
+```
+- Start the development server: 
+```
+npm start
+```
+- Open your browser and navigate to **http://localhost:3000**
 
-### Technologies Used
-:arrow_right: ReactJS
-:arrow_right: Node.js
-:arrow_right: NPM
-:arrow_right: ReactStrap
-:arrow_right: ReactSlick
-:arrow_right: Remixicon
-:arrow_right: React Count-up
+## Background
+EducateU is a single-page online educational website built using React and ReactStrap, aiming to provide an intuitive and engaging learning experience for students of all ages. The project was completed as part of the CS50 course offered by Harvard University.
+
+## Implementation Details
+The website features responsive design for optimal viewing on all devices, Reactstrap for easy and flexible styling, ReactSlick for creating smooth and customizable sliders, UseRef hooks for optimizing performance by reducing re-renders, Remixicon for adding modern icons and graphics to the website, React Count-up for animating numbers and statistics, and Arrays for efficient and organized data management. The technologies used in the project include ReactJS, Node.js, NPM, ReactStrap, ReactSlick, Remixicon, and React Count-up.
+
+## Example Usage
+To use EducateU, users need to create an account or sign in if they already have one. Once logged in, users can browse available modules and start learning. They can track their progress and take quizzes to test their knowledge.
 
 ### Screenshots
-https://freeimage.host/i/localhost-3000.HvYe3N4
+[Full-width](https://freeimage.host/i/localhost-3000.HvYe3N4).
+[Tablet-width](https://freeimage.host/i/med.HvYefx2).
+[Mobile-width](https://freeimage.host/i/mob.HvYeFDl).
 
-https://freeimage.host/i/med.HvYefx2
+### Demo presentation:
+Watch a 2 minute summary of this project, that was used as the final submission for the Final Project of CS50 [Here!](https://www.youtube.com/watch?v=mo4FGHnETcc&ab_channel=JoaquimJos%C3%A9).
 
-https://freeimage.host/i/mob.HvYeFDl
-
-#### Installation
-To run EducateU locally, follow the steps below:
-
-1. Clone the repository: git clone https://github.com/joaquim25/Final-CS-50.git
-2. Navigate to the project directory: cd Final-CS-50
-3. Install dependencies: npm install
-4. Start the development server: npm start
-5. Open your browser and navigate to http://localhost:3000
-
-#### Usage
-In the future to use EducateU, you will need to create an account or sign in if you already have one. Once you are logged in, you can browse the available modules and start learning. You can track your progress and take quizzes to test your knowledge.
-
-#### Testing and Deployment
-To ensure the quality and stability of EducateU, we used Jest and React Testing Library for unit and integration testing.
-
-#### Future Development
-To continuously improve EducateU and add new features to enhance the learning experience, some of the features I plan to add in the future include:
-
-1. Account system
-2. Integration with external APIs for more diverse and relevant content
-3. Improved quiz functionality with randomized questions and adaptive difficulty levels
-4. Social media integration for sharing progress and achievements with friends and family
-
-#### Contact
-If you have any questions, feedback, or suggestions, please feel free to reach out to us at quimze1996.25@gmail.com. I would love to hear from you!
-
-Contributors
+### Author
 Joaquim Luzia
+
+### Acknowledgments
+This program was completed as part of the CS50 course offered by Harvard University.
