@@ -30,7 +30,8 @@ The website features responsive design for optimal viewing on all devices, React
 ## Example Usage
 To use EducateU, users need to create an account or sign in if they already have one. Once logged in, users can browse available modules and start learning. They can track their progress and take quizzes to test their knowledge.
 
-### Screenshots
+### Demo & Screenshots
+![Demo gif](https://github.com/joaquim25/Final-CS-50/blob/main/educate-u.gif)
 [Full-width](https://freeimage.host/i/localhost-3000.HvYe3N4).
 [Tablet-width](https://freeimage.host/i/med.HvYefx2).
 [Mobile-width](https://freeimage.host/i/mob.HvYeFDl).
